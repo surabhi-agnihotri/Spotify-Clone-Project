@@ -33,4 +33,4 @@ This project is a part of my web development journey. The Spotify Clone provides
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </div>
 
-s
+
