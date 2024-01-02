@@ -12,7 +12,7 @@ This project is a part of my web development journey. The Spotify Clone provides
 
 - **Song Playback:** Play, pause, skip, and control the playback of songs within the application.
 
-- **Responsive Design:** The application is designed to be responsive, ensuring a smooth listening experience across various devices.
+
 
 
 
