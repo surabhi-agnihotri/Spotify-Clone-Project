@@ -1,4 +1,4 @@
-# Spotify Clone Project
+# Spotify Clone Project :
 
 Welcome to my Spotify Clone Project! This project is a simple clone of the Spotify application, allowing users to enjoy a curated playlist of my favorite songs.
 
